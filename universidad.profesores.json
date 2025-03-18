@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66230375c6eb9db99fe8e1f3"
+  },
+  "codigo": "001",
+  "nombre": "Juan Pérez",
+  "profesion": "Matemáticas",
+  "observaciones": "Experto en cálculo integral"
+},
+{
+  "_id": {
+    "$oid": "66230375c6eb9db99fe8e1f4"
+  },
+  "codigo": "002",
+  "nombre": "María González",
+  "profesion": "Historia",
+  "observaciones": "Especializada en historia antigua"
+},
+{
+  "_id": {
+    "$oid": "66230375c6eb9db99fe8e1f5"
+  },
+  "codigo": "003",
+  "nombre": "Carlos Martínez",
+  "profesion": "Biología",
+  "observaciones": "Doctor en biología molecular"
+},
+{
+  "_id": {
+    "$oid": "672abf2a5a4acc26ca24874b"
+  },
+  "Codigo": "11",
+  "Nombre": "lario",
+  "Profesion": "gario",
+  "Observaciones": "hola"
+},
+{
+  "_id": {
+    "$oid": "672abf405a4acc26ca24874c"
+  },
+  "Codigo": "12",
+  "Nombre": "maria",
+  "Profesion": "ciencia",
+  "Observaciones": "hola"
+}]
